@@ -1,0 +1,1 @@
+converted everything to react. it is a strange and powerful beast which i have no control over so deploying it is giving me trouble. need to fix navbar. this will get more attention when my project work slows down.
